@@ -37,7 +37,8 @@ Visit the frontend application:
 1. On opening the frontend, a dialog box will prompt you to enter your server URL.  
    Enter the backend URL from above and click **Save Changes**.
 
-2. Once saved, you will see the **Hotel Listing** section displaying all hotels.
+2. Once saved
+     - Click on **Load hotels**, you will see the hotel listing section displaying all hotels.
 
 3. Use the available filters and sorting options to customize the hotel list.
 
